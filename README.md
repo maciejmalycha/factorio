@@ -58,6 +58,14 @@ Just run:
 
 This will compile the project and regenerate `factorio.js`.
 
+## Switch to recipes for Factorio version 0.16
+
+Copy files with -0-16 in name over originals:
+
+    cp factorio-0-16.js factorio.js
+    cp factoriojs-0.16.ml factoriojs.ml
+    cp recipes-0-16.ml recipes.ml
+
 ## License
 
 Factorio Planner is released under the MIT license.
